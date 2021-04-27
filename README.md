@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on [zy6p/covid-19-dashboard](https://github.com/zy6p/covid-19-dashboard)
+
 ![zy6p's github stats](https://github-readme-stats.vercel.app/api?username=zy6p&count_private=true&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zy6p&hide=c,scheme,qml&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zy6p&hide=roff,scheme,qml&langs_count=12&theme=dracula)
