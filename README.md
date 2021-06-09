@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [zy6p/covid-19-dashboard](https://github.com/zy6p/covid-19-dashboard)
+- 🔭 I’m currently working on [CesiumGS/cesium-unreal](https://github.com/CesiumGS/cesium-unreal)
+- ⚡ Blog is [here](https://github.com/zy6p/blog)
 
 ![zy6p's github stats](https://github-readme-stats.vercel.app/api?username=zy6p&count_private=true&show_icons=true&theme=dracula)
 
