@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![zy6p's github stats](https://github-readme-stats.vercel.app/api?username=zy6p&count_private=true&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zy6p&hide=c,roff,scheme,qml,matlab&langs_count=5&theme=dracula&exclude_repo=zoo-project)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zy6p&hide=c,roff,scheme,qml,matlab,qmake,cmake&langs_count=5&theme=dracula&exclude_repo=zoo-project)
